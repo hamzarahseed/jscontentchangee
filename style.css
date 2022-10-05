@@ -1,0 +1,20 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(71, 249, 98), rgb(246, 214, 213));
+    background-repeat: no-repeat;
+height: 100vh;
+  padding-top: 10% ;
+
+}
+
+button{
+    border-radius: 20px;
+    padding: 10px;
+}
+button:hover{
+    background-color: rgb(249, 71, 71);
+   
+}
